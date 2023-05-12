@@ -1,0 +1,13 @@
+body{background-color:green;
+background-image:url(css.png)}
+h1{text-align:center;
+color:aqua;
+font-size: 50pt;}
+h2{text-align: right;
+color:blueviolet;
+font-size: 25pt;}
+h3{text-align: left;
+color:rgb(240, 243, 255);
+font-family: arial,verdana;
+font-style: arial;
+font-size:35pt;}
