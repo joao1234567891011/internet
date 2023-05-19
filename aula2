@@ -1,1 +1,31 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+ <title>estilo css</title>
+ <metacharset="utf-8">
+<link rel="stylesheet"type="text/css"
+href="estilo.css">
+</head>
+<body>
+<div class ="cabecalho">parte1</div>
+<div class="corpo">parte2</div>
+<div class="corpo">parte3</div>
+<div class="rodape">parte4</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
