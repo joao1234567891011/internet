@@ -1,0 +1,26 @@
+.cabecalho{
+
+background-color: gray;
+width: auto;
+padding: 40px;
+}
+
+.conteudo{
+    background-color:blue;
+    width:auto;
+    padding:200px;
+}
+
+.rodape{background-color: red;
+width: auto;
+padding: 40px;
+}
+
+h4{text-align:center;
+font-size:x-large;}
+
+h5{text-align: center;
+font-size:xx-large;}
+
+h6{text-align: end;
+font-size: larger;}
