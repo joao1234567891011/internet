@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Loja de roupa</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+
+<div class="cabecalho">
+<img src="logo.jpg" width="400px" height="150px">
+<h4>Loja de roupa</h4>
+</div>
+
+<div class="conteudo">
+<h5>Temos roupas dos mais variados estilos e aqui está nossa
+    lista:</h5>
+<img src="roupas.jpg" width="1000px" height="1000px">
+
+</div>
+<div class="rodape">
+Rua cachorro louco 123
+<h6>Telefone:9999-9999</h6>
+</div>
+
+
+
+</body>
+</html>
