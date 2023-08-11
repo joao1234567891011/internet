@@ -1,3 +1,4 @@
 input{color:red;
 background-color:ghostwhite;}
 
+body{background-color: aqua;}
