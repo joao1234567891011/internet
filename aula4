@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>html</title>
+    <meta charset="utf-8">
+<link rel="stylesheet"type="text/css"
+href="estilo.css">
+</head>
+<body> <pre>
+    <form method="post" action="">
+    nome<input type="text"maxlength="50"size="60"
+    placeholder="digite nome completo"name="nome">
+
+    email<input type="email"size="40">
+
+    curso<input type="checkbox" name="curso" value="administração">administração
+         <input type="checkbox" name="curso" value="informatica">informatica
+         <input type="checkbox" name="curso" value="inglês">inglês
+
+    periodo<input type="radio" name="periodo"
+    value="matutino">matutino
+           <input type="radio" name="periodo"
+           value="vespertino">vespertino
+
+    cidade<select name="cidade">
+        <option>cascavel</option>
+        <option>corbelia</option>
+        <option>penha</option>
+        
+        </float>
+
+        <img src="" alt="logo do ceep">
+        <a href="www.ceep.com.br">site do colegio</a>
+    
+        <text area rows="40" cobs="50" name="observação">observação</text area>
+
+        </form>
+
+        <input type="submit" value="enviar">
+        <input type="reset" value="apagar">
+
+</pre>
+</body>
+</html>
