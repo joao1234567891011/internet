@@ -29,7 +29,7 @@ href="estilo.css">
         
         </float>
 
-        <img src="" alt="logo do ceep">
+        <img src="ceep.png" alt="logo do ceep">
         <a href="www.ceep.com.br">site do colegio</a>
     
         <text area rows="40" cobs="50" name="observação">observação</text area>
@@ -38,7 +38,3 @@ href="estilo.css">
 
         <input type="submit" value="enviar">
         <input type="reset" value="apagar">
-
-</pre>
-</body>
-</html>
