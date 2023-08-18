@@ -1,0 +1,6 @@
+input{color:red;
+    background-color:antiquewhite;
+text-transform: uppercase;
+border-style:dashed;}
+    
+    body{background-color:ghostwhite;}
