@@ -1,6 +1,7 @@
-input{color:red;
+input{color:crimson;
     background-color:antiquewhite;
 text-transform: uppercase;
-border-style:dashed;}
+border-style:dotted;
+}
     
-    body{background-color:ghostwhite;}
+    body{background-color:whitesmoke;}
