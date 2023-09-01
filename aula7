@@ -8,8 +8,8 @@
 <table border="1" bgcolor="green">
 
 
-<tr>
-<tr>Disciplina: Internet e prog web</tr>
+
+<tr class=exemplo1>Disciplina: Internet e prog web
 <td>Nome</td>
 <td>1 trimestre</td>
 <td>2 trimestre</td>
@@ -17,7 +17,7 @@
 <td>MF</td>
 </tr>
 
-<tr>
+<tr class="exemplo2">
 <td>Ana</td>
 <td>80</td>
 <td>80</td>
@@ -25,14 +25,15 @@
 <td>80</td>
 </tr>
 
-<tr>
+<tr class="exemplo3">
 <td>Carlos</td>
 <td>60</td>
 <td>60</td>
 <td>60</td>
 <td>60</td>
 </tr>
-<tr>
+
+<tr class="exemplo4">
 <td>Daniel</td>
 <td>40</td>
 <td>40</td>
@@ -40,7 +41,7 @@
 <td>40</td>
 </tr>
 
-<tr>
+<tr class="exemplo5">
 <td>Eva</td>
 <td>20</td>
 <td>20</td>
@@ -48,7 +49,7 @@
 <td>20</td>
 </tr>
 
-<tr>
+<tr class="exemplo6">
 <td>Vitor</td>
 <td>50</td>
 <td>50</td>
@@ -56,7 +57,7 @@
 <td>50</td>
 </tr>
 
-<tr>
+<tr class="exemplo7">
 <td>Maria</td>
 <td>70</td>
 <td>70</td>
@@ -64,10 +65,8 @@
 <td>70</td>
 </tr>
 
-<tr>
+<tr class="exemplo8">
 <td colspan="5">2023</td> 
-
-
 </tr>
 </table>
 
