@@ -1,3 +1,19 @@
 tr{background-color: gold;}
 
 td{font-size: 45px;}
+
+.exemplo1{background-color: blue;}
+
+.exemplo2{background-color: pink;}
+
+.exemplo3{background-color: red;}
+
+.exemplo4{background-color: darkviolet;}
+
+.exemplo5{background-color: aquamarine;}
+
+.exemplo6{background-color: yellow;}
+
+.exemplo7{background-color: lightcoral;}
+
+.exemplo8{background-color: mintcream;}
