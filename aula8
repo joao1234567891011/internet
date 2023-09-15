@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<Html lang="pt-br">
+<head>
+<title>Javascript</title>
+</head>
+<Body>
+<h1>programando com javascript</h1>
+<Script>
+window.alert("Boa tarde")
+window.alert("aprendendo javascript")
+
+window.confirm("primeira aula")
+
+var nome=window.prompt("digite seu nome")
+window.alert(nome)
+document.write(nome)
+
+var num=number(window.prompt("digite numero 1"))
+var num1=number(window.prompt("digite numero 2"))
+var resultado=num + num1
+document.write(resultado)
+
+
+
+
+
+
+
+
+
+</Script>
+</Body>
+</Html>
