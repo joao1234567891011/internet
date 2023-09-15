@@ -15,8 +15,8 @@ var nome=window.prompt("digite seu nome")
 window.alert(nome)
 document.write(nome)
 
-var num=number(window.prompt("digite numero 1"))
-var num1=number(window.prompt("digite numero 2"))
+var num=Number(window.prompt("digite numero 1"))
+var num1=Number(window.prompt("digite numero 2"))
 var resultado=num + num1
 document.write(resultado)
 
