@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Let string</title>
+</head>
+<body>
+
+let com string
+<script>
+let idade=50;
+let nome="carlos";
+let sobrenome="silva";
+
+document.write(nome+""+ sobrenome+""+ idade);
+</script>
+
+
+
+
+
+</body>
+</html>
