@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Script</title>
+</head>
+<body>
+<script>
+var x=number(window.prompt("entre com um valor"));
+var y=number(window.prompt("entre com valor"));
+var result;
+
+result=x+y;
+document.write(result);
+</script>
+</body>
+</html>
