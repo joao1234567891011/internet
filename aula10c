@@ -1,0 +1,14 @@
+<html lang="pt-br">
+<head>
+<title>Java script</title>
+</head>
+<body>
+    <div id="area" onclick="clicar">Interaja</div>
+<script>
+
+FUNCTION clicar() 
+    var a =window.document.getElementById('area')
+    a.innerText='clicou'
+</script>
+</body>
+</html>
