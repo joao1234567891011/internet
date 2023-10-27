@@ -1,0 +1,25 @@
+<html lang="pt-br">
+<head>
+<title>Matriz</title>
+</head>
+<body>
+<i id="exemplo"></i>
+<script>
+const cidade=["Corbelia","Cascavel","Toledo"];
+document.getElementById("exemplo").innerHTML=cidade;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
