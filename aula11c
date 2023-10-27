@@ -1,0 +1,26 @@
+<html lang="pt-br">
+<head>
+<title>Matriz</title>
+</head>
+<body>
+<i id="exemplos"></i>
+<script>
+const cidade=["Cascavel","Corbelia","Toledo"];
+let nome=cidade[1];
+document.write(nome);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
